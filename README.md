@@ -73,13 +73,7 @@ pip install -r requirements.txt
 
 ## Run the Application
 
-From the project directory, run either command:
-
-```bash
-python -m netcfg
-```
-
-or:
+From the project directory, run the command:
 
 ```bash
 python run.py
@@ -231,4 +225,10 @@ To enable the new task, import the module in `netcfg/tasks/__init__.py` and add 
 ## Contributing
 
 Bug reports, feature requests, and pull requests are welcome. Please include clear reproduction steps for bugs and add relevant tests when possible. Run the test suite before submitting changes.
+
+## License
+
+NetPilot is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+See the LICENSE file for the full license text.
+Commercial use, modification, and redistribution are permitted subject to the terms of the license.
 
