@@ -1,6 +1,6 @@
-# NetCfg — Network Device Configuration Tool
+# NetPilot — Network Device Configuration Tool
 
-**NetCfg** is an interactive terminal-based tool for managing and configuring network devices. It supports connecting to devices over SSH, Telnet, or a serial console, previewing configuration commands before execution, and managing multiple devices in parallel.
+**NetPilot** is an interactive terminal-based tool for managing and configuring network devices. It supports connecting to devices over SSH, Telnet, or a serial console, previewing configuration commands before execution, and managing multiple devices in parallel.
 
 ## Features
 
@@ -232,6 +232,3 @@ To enable the new task, import the module in `netcfg/tasks/__init__.py` and add 
 
 Bug reports, feature requests, and pull requests are welcome. Please include clear reproduction steps for bugs and add relevant tests when possible. Run the test suite before submitting changes.
 
-## License
-
-No license has been specified in this README. Before publishing the repository publicly on GitHub, add a `LICENSE` file with your chosen license.

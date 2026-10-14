@@ -1,0 +1,5 @@
+netmiko>=4.3
+paramiko>=3.4,<5   # paramiko 5 removed SHA-1 kex/ssh-rsa -> old Cisco/Huawei devices fail
+questionary>=2.0
+rich>=13
+pyserial>=3.5
