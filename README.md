@@ -229,6 +229,8 @@ Bug reports, feature requests, and pull requests are welcome. Please include cle
 ## License
 
 NetPilot is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+
 See the LICENSE file for the full license text.
+
 Commercial use, modification, and redistribution are permitted subject to the terms of the license.
 
